@@ -4,7 +4,7 @@
 
 <title>Overpick.pro - Overwatch Statistics</title>
 <meta name="description" content="Overwatch Statistics for PC, Playstation, Xbox and Switch">
-<meta name="keywords" content="overwatch statistics, overwatch stats, overwatch">
+<meta name="keywords" content="<?php //echo  ?>">
 <meta name="locale" content="<?php echo $lang; ?>">
 
 <meta charset="utf-8">
