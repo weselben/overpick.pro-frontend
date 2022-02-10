@@ -1,7 +1,7 @@
 <?php
 
-include "getlang.php";
-include_once "strings.php";
+require "getlang.php";
+require "strings.php";
 
 $content = file_get_contents('assets/html/header.html');
 
