@@ -10,8 +10,4 @@ function getLang() {
 
     return $lang;
 }
-
-
-
-
 ?>
